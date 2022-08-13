@@ -7,7 +7,7 @@ https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 */
 
 
-var letterCombinations = function(digits) {
+var letterCombinations = (digits) => {
     if (digits === '') return []
     let map = {
         1 : '',
@@ -21,11 +21,11 @@ var letterCombinations = function(digits) {
         9 : 'wxyz',
     }
     
-    out = [];
+    let out = [];
     let arr = new Array(digits.length).fill(0)
 
     while(arr[0] < map[parseInt(digits[0])].length){
-        s = ''
+        let s = ''
 
         for(i = 0; i < digits.length; i++){
             s += map[parseInt(digits[i])][arr[i]]
@@ -36,12 +36,10 @@ var letterCombinations = function(digits) {
         if(digits.length >= 4 && arr[3] == map[parseInt(digits[3])].length) {
             arr[2]++;
             arr[3] = 0;
-            
         }
         if(digits.length >= 3 && arr[2] == map[parseInt(digits[2])].length) {
             arr[1]++;
             arr[2] = 0;
-
         }
         if(digits.length >= 2 && arr[1] == map[parseInt(digits[1])].length ) {
             arr[0]++;
@@ -53,12 +51,25 @@ var letterCombinations = function(digits) {
 };
 
 
-Input: digits = "2456"
+digits = "2456"
 
 console.log(letterCombinations(digits))
 
 
 /*
+
+pos2 = 0
+pos3 = 1
+
+pos2    2 : 'abc',
+pos3    3 : 'def',
+
+[0, 0, 1, 0]
+
+    a 
+
+
+
 
 Example 1:
 Input: digits = "23"

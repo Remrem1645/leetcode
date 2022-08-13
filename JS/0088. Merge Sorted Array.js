@@ -7,11 +7,11 @@
 */
 
 var merge = function(nums1, m, nums2, n) {
-    nums1 = nums1.slice(0, m);
-    nums2 = nums2.slice(0, n);
-    nums1 = nums1.concat(nums2);
-    nums1 = nums1.sort()
-    return nums1;
+    for(i = m, j = 0 ; i < m + n; i++, j++){
+        nums1[i] = nums2[j]
+    }
+    nums1.sort((a,b) => a - b);
+    console.log(nums1)
 };
 
 nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3;

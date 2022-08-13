@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\167. Two Sum II - Input Array Is Sorted.js"
+        "program": "${workspaceFolder}\\0088. Merge Sorted Array.js"
       }
     ]
   }

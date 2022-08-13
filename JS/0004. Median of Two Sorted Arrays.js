@@ -1,16 +1,50 @@
-//4. Median of Two Sorted Arrays (Hard)
+/*
 
+4. Median of Two Sorted Arrays (Hard)
 
+https://leetcode.com/problems/median-of-two-sorted-arrays/
+
+*/
+/* 
 var findMedianSortedArrays = function(nums1, nums2) {
+    let mid1 = 0;
+    let mid2 = 0;
 
+    if(nums1.length !== 0){
+        let start1 = 0;
+        let end1 = nums1.length - 1;
+        if(nums1.length % 2){
+            let middle = Math.floor((start1 + end1) / 2)
+            mid1 = nums1[middle];
+        }else{
+            let middle = Math.floor((start1 + end1) / 2);
+            mid1 = ((nums1[middle] + nums1[middle + 1]) / 2);
+        }
+    }
 
-    
+    if(nums2.length !== 0){
+        let start2 = 0;
+        let end2 = nums2.length - 1;
+        
+        if(nums2.length % 2){
+            let middle = Math.floor((start2 + end2) / 2)
+            mid2 = nums2[middle];
+        }else{
+            let middle = Math.floor((start2 + end2) / 2);
+            mid2 = ((nums2[middle] + nums2[middle + 1]) / 2);
+        }
+    }
+
+    if(nums1.length == 0 && nums2.length == 0) return [];
+    if(nums1.length == 0) mid1 = mid2;
+    if(nums2.length == 0) mid2 = mid1;
+
+    return ((mid1 + mid2) / 2)
 };
 
-nums1 = [1,3];
-nums2 = [2];
+nums1 = [], nums2 = [1]
 
-console.log(findMedianSortedArrays(nums1,nums2));
+console.log(findMedianSortedArrays(nums1,nums2)); */
 
 
 /*
@@ -18,7 +52,6 @@ console.log(findMedianSortedArrays(nums1,nums2));
 Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
 
 The overall run time complexity should be O(log (m+n)).
-
 
 
 Example 1:
@@ -35,19 +68,18 @@ Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 
 comparer for num1 and num2
 
-1 = [1,6,9]
-2 = [2,3,5]
+[5,6,7,8,9]
 
-check 1.[x] and 2.[y] : out 1 x++
-check 1.[x] and 2.[y] : out 2 y++
-check 1.[x] and 2.[y] : out 3 y++
-check 1.[x] and 2.[y] : out 5 y++
-check 1.[x] and 2.[y] : out 6 x++
-check 1.[x] and 2.[y] : out 9 x++
+7
 
+[10,11,12,13,14]
 
-if odd = Math.ceil(numsarray.lenth / 2)
-if even = avg of (  (numsarray.lenth / 2) and numsarray.lenth / 2) + 1)
+12
+
+12 + 7 = 19
+
+9.5
+
 
 
 */

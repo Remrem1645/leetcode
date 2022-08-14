@@ -38,7 +38,6 @@ l2 = new ListNode(5);
 l2.next = new ListNode(6);
 l2.next.next = new ListNode(4);
 
-
 console.log(addTwoNumbers(l1,l2));
 
 /*
@@ -55,7 +54,6 @@ l1 = [9,9,9,9,9,9,9]
 l2 = [9,9,9,9]
 Output: [8,9,9,9,0,0,0,1]
 Explanation: 9999999 + 9999 = 10009998 reverse is 89990001
-
 
 Using Carry:
 
@@ -74,7 +72,6 @@ l1  l2  Carry
 9 +     1(carry) = 10 = 0 with 1 carry
 9 +     1(carry) = 10 = 0 with 1 carry
         1(carry) = 1  = 1 with 0 carry
-
 
 console.log(l1.val);
 l1 = l1.next;

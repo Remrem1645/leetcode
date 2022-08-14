@@ -1,4 +1,10 @@
-// 21. Merge Two Sorted Lists (Easy)
+/*
+
+21. Merge Two Sorted Lists 
+
+https://leetcode.com/problems/merge-two-sorted-lists/
+
+*/
 
 
 var mergeTwoLists = function(list1, list2) {
@@ -42,6 +48,7 @@ function ListNode(val, next) {
 
 
 /*
+
 Example 1:
 Input: list1 = [1,2,4], list2 = [1,3,4]
 Output: [1,1,2,3,4,4]
@@ -55,4 +62,5 @@ Output: []
 Example 3:
 Input: list1 = [], list2 = [0]
 Output: [0]
+
 */

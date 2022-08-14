@@ -1,3 +1,11 @@
+/*
+
+1332. Remove Palindromic Subsequences
+
+https://leetcode.com/problems/remove-palindromic-subsequences/
+
+*/
+
 /* 
 Version 1:
 var removePalindromeSub = function(s) {

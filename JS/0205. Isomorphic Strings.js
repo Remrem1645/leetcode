@@ -1,3 +1,10 @@
+/*
+
+205. Isomorphic Strings
+
+https://leetcode.com/problems/isomorphic-strings/
+
+*/
 var isIsomorphic = function(s, t) {
     if (s.length !== t.length) return false;
 

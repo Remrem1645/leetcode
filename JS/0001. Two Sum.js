@@ -11,8 +11,7 @@ var twoSum = function(nums, target) {
     for(i = 0; i < nums.length; i++){
         if(target - nums[i] in dictionary){
             return [dictionary[target - nums[i]], i]
-        }
-        else{
+        }else{
             dictionary[nums[i]] = i; 
         }
     }  

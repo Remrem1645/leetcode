@@ -54,6 +54,7 @@ console.log(convert(s , numRows));
 
 
 /*
+
 Length = 16, numRows = 4
 
 1     7       13
@@ -188,5 +189,6 @@ row1 =
 PINALSIGYAHRPI
 
 row = +7?
+
 */
 

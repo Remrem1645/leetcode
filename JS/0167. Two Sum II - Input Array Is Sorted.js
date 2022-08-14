@@ -24,6 +24,7 @@ numbers = [2, 7, 11, 15, 15, 15, 15], target = 9
 console.log(twoSum(numbers, target));
 
 /*
+
 Example 1:
 Input: numbers = [2,7,11,15], target = 9
 Output: [1,2]
@@ -38,4 +39,5 @@ Example 3:
 Input: numbers = [-1,0], target = -1
 Output: [1,2]
 Explanation: The sum of -1 and 0 is -1. Therefore index1 = 1, index2 = 2. We return [1, 2].
+
 */

@@ -22,8 +22,8 @@ var plusOne = function(digits) {
 console.log(plusOne([6,1,4,5,3,9,0,1,9,5,1,8,6,7,0,5,5,4,3]))
 
 /*
-Example 1:
 
+Example 1:
 Input: digits = [1,2,3]
 Output: [1,2,4]
 Explanation: The array represents the integer 123.
@@ -32,7 +32,6 @@ Thus, the result should be [1,2,4].
 
 
 Example 2:
-
 Input: digits = [4,3,2,1]
 Output: [4,3,2,2]
 Explanation: The array represents the integer 4321.
@@ -41,10 +40,10 @@ Thus, the result should be [4,3,2,2].
 
 
 Example 3:
-
 Input: digits = [9]
 Output: [1,0]
 Explanation: The array represents the integer 9.
 Incrementing by one gives 9 + 1 = 10.
 Thus, the result should be [1,0].
+
 */

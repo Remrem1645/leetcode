@@ -66,10 +66,6 @@ pos3    3 : 'def',
 
 [0, 0, 1, 0]
 
-    a 
-
-
-
 
 Example 1:
 Input: digits = "23"

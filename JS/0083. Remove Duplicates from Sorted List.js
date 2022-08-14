@@ -1,4 +1,10 @@
-//83. Remove Duplicates from Sorted List (easy)
+/*
+
+83. Remove Duplicates from Sorted List (easy)
+
+https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+
+*/
 
 function ListNode(val, next) {
     this.val = (val === undefined ? 0 : val)
@@ -29,10 +35,6 @@ head.next.next.next.next = new ListNode(0);
 
 
 console.log(deleteDuplicates(head));
-
-
-
-
 
 /*
 

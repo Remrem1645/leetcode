@@ -80,7 +80,6 @@ pass all 3 test to return valid.
 
 very slow tho
 
-
 x = i % 3
 y = j % 3
 

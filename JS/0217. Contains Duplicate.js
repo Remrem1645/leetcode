@@ -1,3 +1,11 @@
+/*
+
+217. Contains Duplicate
+
+https://leetcode.com/problems/contains-duplicate/
+
+*/
+
 var containsDuplicate = function(nums) {
     let dict = {};
     for(i = 0; i < nums.length; i++){

@@ -30,6 +30,7 @@ console.log(longestPalindrome(s))
 
 
 /*
+
 Example 1:
 
 Input: s = "babad"
@@ -42,6 +43,5 @@ Example 2:
 " abba"
 Input: s = "cbbd"
 Output: "bb"
-
 
 */

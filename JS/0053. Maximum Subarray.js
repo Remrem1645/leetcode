@@ -1,5 +1,10 @@
-//53. Maximum Subarray (Easy)
+/*
 
+53. Maximum Subarray (Easy)
+
+https://leetcode.com/problems/maximum-subarray/
+
+*/
 
 /* 
 var maxSubArray = function(nums) {
@@ -16,7 +21,6 @@ var maxSubArray = function(nums) {
     return out;
 };
  */
-
 
 /* 
 var maxSubArray = function(nums) {
@@ -50,6 +54,7 @@ console.log(maxSubArray(nums))
 
 
 /*
+
 Example 1:
 Input: nums = [-2,1,-3,4,-1,2,1,-5,4]
 
@@ -68,4 +73,5 @@ Output: 1
 Example 3:
 Input: nums = [5,4,-1,7,8]
 Output: 23
+
 */

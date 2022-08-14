@@ -1,3 +1,10 @@
+/*
+
+118. Pascal's Triangle
+
+https://leetcode.com/problems/pascals-triangle/
+
+*/
 var generate = function(numRows) {
 
     out = [[1]]; if(numRows == 1) return out;

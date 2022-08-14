@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\0100. Same Tree.js"
+        "program": "${workspaceFolder}\\0004. Median of Two Sorted Arrays.js"
       }
     ]
   }

@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\0004. Median of Two Sorted Arrays.js"
+        "program": "${workspaceFolder}\\0010. Regular Expression Matching.js"
       }
     ]
   }

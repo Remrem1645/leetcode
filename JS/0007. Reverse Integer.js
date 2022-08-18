@@ -19,6 +19,11 @@ x = -2147483412
 console.log(reverse(x))
 
 /*
+
+min num = -2,147,483,648
+max num = 2,147,483,647
+
+
 Example 1:
 Input: x = 123
 Output: 321

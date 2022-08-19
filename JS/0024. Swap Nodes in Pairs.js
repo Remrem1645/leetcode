@@ -32,7 +32,7 @@ var swapPairs = function (head) {
     return output.next;
 };
 
-//Creates LinkeList from array
+//Creates LinkedList from array
 function createList(a){
     var node;
     var temp;

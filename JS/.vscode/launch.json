@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\0010. Regular Expression Matching.js"
+        "program": "${workspaceFolder}\\0024. Swap Nodes in Pairs.js"
       }
     ]
   }

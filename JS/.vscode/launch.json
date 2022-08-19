@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\0022. Generate Parentheses.js"
+        "program": "${workspaceFolder}\\0010. Regular Expression Matching.js"
       }
     ]
   }

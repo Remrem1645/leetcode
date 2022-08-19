@@ -9,13 +9,16 @@ let count = 0;
 
 var isMatch = function(s, p) {
     let dict = {};
+    let correction = 0;
     for(i = 0; i < p.length; i++){
         if(p[i] === '.'){
             if(p[i + 1] === '*'){
-                if (!checkUniqueChara(s)) return false;
-                i++;
+                return true
             }else{
-                if (!checkForOneUniqueChara(s)) return false;
+                if (!checkForOneUniqueChara(s)) {
+                    return false;
+                }
+                correction++;
             }
         }else{
             if(p[i + 1] === '.'){
@@ -23,7 +26,8 @@ var isMatch = function(s, p) {
                 i++;
             }
             if(p[i + 1] === '*'){
-                i++
+                if (!checkUniqueChara(s, i)) return false;
+                i++;
             }else{
                 if(p[i + 1] !== '.' && p[i + 1] !== '*'){
                     if(p[i] in dict){
@@ -35,11 +39,11 @@ var isMatch = function(s, p) {
             }
         }
     }
-    if (!checkUniqueString(s, dict)) return false;
+    if (!checkUniqueString(s, dict, correction)) return false;
     return true;
 };
 
-function checkUniqueChara(s){
+function checkUniqueChara(s, i){
     let dict = {};
     for(j = 0; j < s.length; j++){
         if(s[j] in dict) return false;
@@ -73,7 +77,7 @@ function checkForOneCharaIsUnique(s, l){
     return value === 0;
 }
 
-function checkUniqueString(s, m){
+function checkUniqueString(s, m, c){
     let dict = {};
     for(j = 0; j < s.length; j++){
         if(s[j] in dict) dict[s[j]]++ ;
@@ -82,7 +86,15 @@ function checkUniqueString(s, m){
     for(let l in m) {
         let v1 = dict[l];
         let v2 = m[l]
-        if(v1 !== v2) return false;
+        if(v1 !== v2){
+            a = v1 - v2;
+            if(c > 0 && c >= a){
+                c -= a;
+                continue;
+            }else{
+                return false;
+            }
+        }
     }
     return true;
 }
@@ -92,7 +104,7 @@ function checkUniqueString(s, m){
 
 
 
-Input: s = "mississippi", p = "mis*is*ip*."
+Input: s = "abcd", p = "d*"
 console.log(isMatch(s,p));
 
 

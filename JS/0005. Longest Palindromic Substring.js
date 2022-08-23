@@ -24,7 +24,7 @@ var longestPalindrome = function(s) {
     return s.slice(finalStartPos, finalStartPos + finalEndPos);;
 };
 
-s = "a"
+s = "cdccdc"
 
 console.log(longestPalindrome(s))
 

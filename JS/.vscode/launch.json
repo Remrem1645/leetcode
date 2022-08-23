@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\0024. Swap Nodes in Pairs.js"
+        "program": "${workspaceFolder}\\0005. Longest Palindromic Substring.js"
       }
     ]
   }

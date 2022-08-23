@@ -8,9 +8,9 @@ https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 var findMedianSortedArrays = function(nums1, nums2) {
     let len = (Math.floor((nums1.length + nums2.length)/2)) + 1;
-    let arr = []; let a = 0; let b = 0;
+    let arr = [], a = 0, b = 0;
     while(arr.length !== len){
-        if(nums1[a] <= nums2[b] && nums1[a] !== undefined|| nums2[b] === undefined){
+        if(nums1[a] <= nums2[b] && nums1[a] !== undefined || nums2[b] === undefined){
             arr.push(nums1[a]);
             a++;
         } else{

@@ -1,10 +1,15 @@
+// O(1)
+// ex: console.log('hi')
 
-function solution(A) {
-    if ( A.indexOf(1) == -1) { return 1; }
-    return A;
+// O(log(n))
+// ex: binary Search
 
-}
+// O(n)
+// ex: loop through an array
 
-A = [1, 3, 6, 4, 1, 2]
+// O(n ^ 2)
+// ex: loop through an 2d array looking through every element, assuming the array size is symmetrical (10 x 10)
 
-console.log(solution(A))
+// O(n ^ n)
+// ex: 
+

@@ -6,21 +6,17 @@ https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/
 
 */
 
+var minDays = (n) => {return (n <= 1) ? n : findmin(n, 0, Number.MAX_VALUE)} 
 
-var minDays = function(n) {
+function findmin(n, min, x){
+    if(n <= 0 || min >= x) return Math.min(min, x); 
+    if(n % 2 === 0) x = findmin(n - (n / 2), min + 1, x);
+    if(n % 3 === 0) x = findmin(n - (2 * (n / 3)), min + 1, x);
+    x = findmin(n - 1, min + 1, x);
+    return x;
+}
 
-    function findmin(n, min, x){
-        if(n <= 0) return x = Math.min(min, x); 
-        x = findmin(n - 1, min + 1, x);
-        if(n % 2 === 0 ) x = findmin(n - (n / 2), min + 1, x)
-        if(n % 3 === 0 ) x = findmin(n - (2 * (n / 3)), min + 1, x)
-        return x;
-    }
-
-    return findmin(n, 0, Number.MAX_VALUE);
-};
-
-n = 673;
+n = 84806671;
 
 console.log(minDays(n))
 

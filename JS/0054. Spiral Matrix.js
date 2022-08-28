@@ -9,7 +9,6 @@ https://leetcode.com/problems/spiral-matrix/
 
 var spiralOrder = function(matrix) {
     let out = [];
-
     for(let posX = 0, posY = 0, count = 0, x = 0, length = matrix.length * matrix[0].length; count < length; x++){
         for(;posX < matrix[0].length - x && count < length; posX++, count++) out.push(matrix[posY][posX]); 
         posX--; posY++;

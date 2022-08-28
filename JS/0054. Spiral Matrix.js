@@ -11,25 +11,16 @@ var spiralOrder = function(matrix) {
     let out = [];
 
     for(let posX = 0, posY = 0, count = 0, x = 0, length = matrix.length * matrix[0].length; count < length; x++){
-        while(posX < matrix[0].length - x && count < length){
-            out.push(matrix[posY][posX]); 
-            posX++; count++;
-        }
+        for(;posX < matrix[0].length - x && count < length; posX++, count++) out.push(matrix[posY][posX]); 
         posX--; posY++;
-        while(posY < matrix.length - x && count < length){
-            out.push(matrix[posY][posX]);
-            posY++; count++;
-        }
+
+        for(;posY < matrix.length - x && count < length; posY++, count++) out.push(matrix[posY][posX]); 
         posX--; posY--;
-        while(posX >= 0 + x && count < length){
-            out.push(matrix[posY][posX]);
-            posX--; count++;
-        }
+
+        for(;posX >= 0 + x && count < length; posX--, count++) out.push(matrix[posY][posX]);
         posX++; posY--;
-        while(posY >= 1 + x && count < length){
-            out.push(matrix[posY][posX]);
-            posY--; count++;
-        }
+
+        for(;posY >= 1 + x && count < length; posY--, count++) out.push(matrix[posY][posX]);
         posX++; posY++;
     }
     return out;

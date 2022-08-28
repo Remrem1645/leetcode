@@ -25,5 +25,4 @@ function TreeNode(val, left, right) {
     this.right = (right === undefined ? null : right)
 }
 
-
 console.log(levelOrder(root))

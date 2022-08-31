@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\1091. Shortest Path in Binary Matrix.js"
+        "program": "${workspaceFolder}\\0110. Balanced Binary Tree.js"
       }
     ]
   }

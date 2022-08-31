@@ -4,38 +4,40 @@ function TreeNode(val, left, right) {
     this.right = (right === undefined ? null : right)
 }
 
-
-Input: root = [3,9,20,null,null,15,7]
-
-
-function insertLevelOrder(arr, i){
-    let root = null;
-    if (i < arr.length) {
-        root = new TreeNode(arr[i]);
-        root.left = insertLevelOrder(arr, 2 * i + 1);
-        root.right = insertLevelOrder(arr, 2 * i + 2);
+function buildTreeFromArr(arr) {
+    let root = new TreeNode(arr.shift()), queue = [root];
+    while (queue.length > 0 && arr.length > 0) {
+        let currNode = queue.shift(), lVal = arr.shift(), rVal = arr.shift();
+        if (lVal !== null) {
+            currNode.left = new TreeNode(lVal);
+            queue.push(currNode.left);
+        }
+        if (rVal !== null) {
+            currNode.right = new TreeNode(rVal);
+            queue.push(currNode.right);
+        }
     }
     return root;
 }
 
-tree = insertLevelOrder(root, 0)
-
-
-var isBalanced = function(root) {
-
+var isBalanced = function (root) {
+    let out = true;
+    function checkBalance(root){
+        if(!root) return 0;
+        let left = checkBalance(root.left), right = checkBalance(root.right);
+        if(left - right > 1 || right - left > 1) out = false;
+        return 1 + Math.max(left, right);
+    }
+    checkBalance(root);
+    return out;
 };
 
 
-function checklength(root, l){
-    while(root){
-        
-    }
-}
 
 
 
-console.log(isBalanced(tree));
-
+root = [1,2,2,3,null,null,3,4,null,null,4]
+console.log(isBalanced(buildTreeFromArr(root)));
 
 
 /*

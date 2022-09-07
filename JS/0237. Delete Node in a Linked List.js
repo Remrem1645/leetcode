@@ -17,3 +17,5 @@ var deleteNode = function (node) {
     node.next = node.next.next; //set next node to point to next linked list
 };
 
+
+

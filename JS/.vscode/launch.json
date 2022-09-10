@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\0019. Remove Nth Node From End of List.js"
+        "program": "${workspaceFolder}\\0141. Linked List Cycle.js"
       }
     ]
   }

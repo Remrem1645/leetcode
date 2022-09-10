@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\0141. Linked List Cycle.js"
+        "program": "${workspaceFolder}\\0412. Fizz Buzz.js"
       }
     ]
   }

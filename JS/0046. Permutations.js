@@ -9,24 +9,7 @@ https://leetcode.com/problems/permutations/
 var permute = function(nums) {
     out = [];
 
-    function calculate(nums, out, a, b){
-        map = {}, temp = [nums[a]], map[a] = a, B = b;
-        if(a === b) B++;
-        while(!(B in map)){
-            if(B === nums.length){ B = 0; continue; } 
-            map[B] = B;
-            temp.push(nums[B]);
-            B++;
-        }
-        out.push(temp);
-        if(b < nums.length) out = calculate(nums, out, a, b + 1);
-        if(a < nums.length) out = calculate(nums, out, a + 1, b);
-        return out;
-        
-    }
 
-    return calculate(nums, out, 0, 1)
-    
 };
 
 

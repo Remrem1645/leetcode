@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\0046. Permutations.js"
+        "program": "${workspaceFolder}\\test.js"
       }
     ]
   }

@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\0231. Power of Two.js"
+        "program": "${workspaceFolder}\\0234. Palindrome Linked List.js"
       }
     ]
   }

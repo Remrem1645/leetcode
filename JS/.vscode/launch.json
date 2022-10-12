@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\0623. Add One Row to Tree.js"
+        "program": "${workspaceFolder}\\0048. Rotate Image.js"
       }
     ]
   }

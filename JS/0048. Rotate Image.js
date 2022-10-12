@@ -20,15 +20,15 @@ function rotate (matrix){
     rSideInsert = (from, to) => { for(i = from[0]; i <= to[0]; i++) matrix[from[1]][i] = s.pop();}
 
     for(let size = matrix.length, i = 0, mSize = matrix.length - 1; size > 1; size -= 2, i++){
-        tSide([i,i], [i,mSize - i])
-        bSide([mSize - i, i], [mSize - i, mSize - i])
-        rSide([i,mSize - i], [mSize - i, mSize - i])
-        lSide([i,i], [mSize - i, i])
+        tSide([i,i], [i,mSize - i]);
+        bSide([mSize - i, i], [mSize - i, mSize - i]);
+        rSide([i,mSize - i], [mSize - i, mSize - i]);
+        lSide([i,i], [mSize - i, i]);
         
-        tSideInsert([i,i], [i,mSize - i])
-        bSideInsert([mSize - i, i], [mSize - i, mSize - i])
-        lSideInsert([i,i], [mSize - i, i])
-        rSideInsert([i,mSize - i], [mSize - i, mSize - i])
+        tSideInsert([i,i], [i,mSize - i]);
+        bSideInsert([mSize - i, i], [mSize - i, mSize - i]);
+        lSideInsert([i,i], [mSize - i, i]);
+        rSideInsert([i,mSize - i], [mSize - i, mSize - i]);
     }
 }
 

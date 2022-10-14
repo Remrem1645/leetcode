@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\0048. Rotate Image.js"
+        "program": "${workspaceFolder}\\0012. Integer to Roman.js"
       }
     ]
   }

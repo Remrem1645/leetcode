@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\0043. Multiply Strings.js"
+        "program": "${workspaceFolder}\\0039. Combination Sum.js"
       }
     ]
   }

@@ -37,13 +37,6 @@ var intToRoman = function(num) {
 num = 1994;
 console.log(intToRoman(num))
 
-
-
-
-
-
-
-
 /*
 
 Symbol       Value

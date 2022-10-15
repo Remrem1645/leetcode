@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\0012. Integer to Roman.js"
+        "program": "${workspaceFolder}\\0043. Multiply Strings.js"
       }
     ]
   }

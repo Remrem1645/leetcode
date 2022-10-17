@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\0061. Rotate List.js"
+        "program": "${workspaceFolder}\\0008. String to Integer (atoi).js"
       }
     ]
   }

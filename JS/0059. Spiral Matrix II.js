@@ -9,17 +9,17 @@ https://leetcode.com/problems/spiral-matrix-ii/
 
 var generateMatrix = function(n) {
     let arr = new Array(n).fill(1).map(() => new Array(n).fill(1));
-    let topLimit = 0, rightLimit = 0, botLimit = n, leftLimit = n, len = Math.pow(n, 2) + 1;
+    let topLimit = 0, botLimit = n, leftLimit = 0, rightLimit = n, len = Math.pow(n, 2) + 1;
 
     for(let i = 2, currPos = [0, 0]; i < len;){
         if(i < len) i = topSide(i, currPos);
-        if(i < len) i = leftSide(i, currPos);
-        if(i < len) i = botSide(i, currPos);        
         if(i < len) i = rightSide(i, currPos);
+        if(i < len) i = botSide(i, currPos);        
+        if(i < len) i = leftSide(i, currPos);
     }
 
     function topSide(i, currPos){
-        for(; currPos[0] === topLimit && currPos[1] < leftLimit - 1; i++){
+        for(; currPos[0] === topLimit && currPos[1] < rightLimit - 1; i++){
             currPos[1]++;
             arr[currPos[0]][currPos[1]] = i; 
         }
@@ -27,17 +27,17 @@ var generateMatrix = function(n) {
         return i;
     }
 
-    function leftSide(i, currPos){
-        for(; currPos[1] === leftLimit - 1 && currPos[0] < botLimit - 1; i++){
+    function rightSide(i, currPos){
+        for(; currPos[1] === rightLimit - 1 && currPos[0] < botLimit - 1; i++){
             currPos[0]++;
             arr[currPos[0]][currPos[1]] = i; 
         }
-        leftLimit--;
+        rightLimit--;
         return i;
     }
 
     function botSide(i, currPos){
-        for(; currPos[0] === botLimit - 1 && currPos[1] > rightLimit; i++){
+        for(; currPos[0] === botLimit - 1 && currPos[1] > leftLimit; i++){
             currPos[1]--;
             arr[currPos[0]][currPos[1]] = i; 
         }
@@ -45,12 +45,12 @@ var generateMatrix = function(n) {
         return i;
     }
 
-    function rightSide(i, currPos){
-        for(; currPos[1] === rightLimit && currPos[0] > topLimit; i++){
+    function leftSide(i, currPos){
+        for(; currPos[1] === leftLimit && currPos[0] > topLimit; i++){
             currPos[0]--;
             arr[currPos[0]][currPos[1]] = i; 
         }
-        rightLimit++;
+        leftLimit++;
         return i;
     }
 

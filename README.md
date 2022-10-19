@@ -28,9 +28,21 @@ learning and working through leetcode with JavaScript
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0027.%20Remove%20Element.js)|Easy|Completed|
 |0028|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0028.%20Implement%20strStr().js)|Medium|Completed|
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.js)|Medium|Completed|
-|0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JS](ddddddddddddd)|Medium|Completed|
-|0036|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
-|0039|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
+|0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0035.%20Search%20Insert%20Position.js)|Easy|Completed|
+|0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0036.%20Valid%20Sudoku.js)|Medium|Completed|
+|0039|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0039.%20Combination%20Sum.js)|Medium|Completed|
+|0043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0043.%20Multiply%20Strings.js)|Medium|WIP|
+|0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0045.%20Jump%20Game%20II.js)|Medium|WIP|
+|0046|[Permutations](https://leetcode.com/problems/permutations/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0046.%20Permutations.js)|Medium|WTP|
+|0048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0048.%20Rotate%20Image.js)|Medium|Completed|
+|0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0049.%20Group%20Anagrams.js)|Medium|Completed|
+
+|0050|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
+
+
+
+
+
 
 
 

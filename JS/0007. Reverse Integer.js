@@ -1,20 +1,29 @@
-//7. Reverse Integer (Medium)
+/*
 
+7. Reverse Integer 
+
+https://leetcode.com/problems/reverse-integer/
+
+*/
 
 var reverse = function(x) {
-    x = Math.fround(x) + ''; out = '';
-    for(i = (x.length - 1); i >= 0; i--){
-        if(x[i] == '-'){
-            out = '-' + out;
-        } 
-        else{
-            out += x[i];
-        }
+    let stack = [], out = '', neg = false;
+
+    x = `${x}`
+
+    for(let i = 0; i < x.length; i++){
+        stack.push(x[i]);
     }
-    return Math.fround(out);
+    while(stack.length !== 0){
+        let temp = stack.pop();
+        if(temp === '0' && out.length === 0) continue;
+        if(temp !== '-') out += temp;
+        if(temp === '-') neg = true;
+    }
+    return (out > 0x7FFFFFFF) ? 0 : neg ? -out : out;
 };
 
-x = -2147483412
+x = -2147483648
 
 console.log(reverse(x))
 

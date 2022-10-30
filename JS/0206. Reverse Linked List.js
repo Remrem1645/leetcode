@@ -1,12 +1,28 @@
-var reverseList = function (head) {
+/*
 
-};
+206. Reverse Linked List
+
+https://leetcode.com/problems/reverse-linked-list/
+
+*/
 
 function ListNode(val, next) {
     this.val = (val === undefined ? 0 : val)
     this.next = (next === undefined ? null : next)
 }
 
+
+var reverseList = function (head) {
+    let curr = head, prev = null;
+
+    while(curr){
+        temp = curr.next;
+        curr.next = prev;
+        prev = curr;
+        curr = temp;
+    }
+    return prev;
+};
 
 
 head = new ListNode(1);
@@ -16,7 +32,7 @@ head.next.next.next = new ListNode(4);
 head.next.next.next.next = new ListNode(5);
 
 
-console.log(head.val)
+console.log(reverseList(head))
 
 
 

@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\0653. Two Sum IV - Input is a BST.js"
+        "program": "${workspaceFolder}\\0206. Reverse Linked List.js"
       }
     ]
   }

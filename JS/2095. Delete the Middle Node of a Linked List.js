@@ -12,27 +12,20 @@ function ListNode(val, next) {
 }
 
 var deleteMiddle = function (head) {
-    let temp = [], i = 0, headcopy = head;
+    let temp, headcopy = head, headref = head;
+    if(headref.next === null) return head.next;
 
-    if(head.next === null) return head.next;
-
-    for(; headcopy; i++){
-        temp[i] = headcopy;
+    while(headcopy.next !== null){
+        temp = head;
+        head = head.next;
         headcopy = headcopy.next;
+        if(headcopy.next !== null) headcopy = headcopy.next;
     }
-
-    let mid = Math.ceil((i - 1) / 2);
-
-    if(i !== 2){
-        temp[mid - 1].next = temp[mid + 1];
-        return head;
-    }
-    
-    temp[mid - 1].next = null;
-    return head;
+    temp.next = head.next;
+    return headref;
 };
 
-nums = [3]
+nums = [1]
 
 let head = nums.reverse().reduce((acc, curr) => {
     if (acc == null) {

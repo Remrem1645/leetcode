@@ -9,7 +9,7 @@ learning and working through leetcode with JavaScript
 |0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0004.%20Median%20of%20Two%20Sorted%20Arrays.js)|Hard|Completed|
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0005.%20Longest%20Palindromic%20Substring.js)|Medium|Completed|
 |0006|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0006.%20Zigzag%20Conversion.js)|Medium|Completed|
-|0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0007.%20Reverse%20Integer.js)|Medium|WIP|
+|0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0007.%20Reverse%20Integer.js)|Medium|Completed|
 |0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0008.%20String%20to%20Integer%20(atoi).js)|Medium|Completed|
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0009.%20Palindrome%20Number.js)|Easy|Completed|
 |0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0010.%20Regular%20Expression%20Matching.js)|Hard|WIP|
@@ -36,8 +36,28 @@ learning and working through leetcode with JavaScript
 |0046|[Permutations](https://leetcode.com/problems/permutations/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0046.%20Permutations.js)|Medium|WTP|
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0048.%20Rotate%20Image.js)|Medium|Completed|
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0049.%20Group%20Anagrams.js)|Medium|Completed|
+|0051|[N-Queens](https://leetcode.com/problems/n-queens/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0051.%20N-Queens.js)|Hard|WIP|
+|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0053.%20Maximum%20Subarray.js)|Medium|Completed|
+|0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0054.%20Spiral%20Matrix.js)|Medium|Completed|
+|0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0058.%20Length%20of%20Last%20Word.js)|Easy|Completed|
+|0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0059.%20Spiral%20Matrix%20II.js)|Medium|Completed|
+|0061|[Rotate List](https://leetcode.com/problems/rotate-list/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0061.%20Rotate%20List.js)|Medium|Completed|
+|0066|[Plus One](https://leetcode.com/problems/plus-one/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0066.%20Plus%20One.js)|Easy|Completed|
+|0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0069.%20Sqrt(x).js)|Easy|Completed|
+|0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0070.%20Climbing%20Stairs.js)|Easy|Completed|
+|0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0083.%20Remove%20Duplicates%20from%20Sorted%20List.js)|Easy|Completed|
+|0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0088.%20Merge%20Sorted%20Array.js)|Easy|Completed|
+|0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0094.%20Binary%20Tree%20Inorder%20Traversal.js)|Easy|Completed|
+|0100|[Same Tree](https://leetcode.com/problems/same-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0100.%20Same%20Tree.js)|Easy|Completed|
+|0100|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
+|0100|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
+|0100|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
+|0100|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
 
-|0050|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
+
+
+
+
 
 
 

@@ -1,4 +1,10 @@
-//5. Longest Palindromic Substring (Medium)
+/*
+
+5. Longest Palindromic Substring 
+
+https://leetcode.com/problems/longest-palindromic-substring/
+
+*/
 
 var longestPalindrome = function(s) {
     finalStartPos = 0; finalEndPos = 0;

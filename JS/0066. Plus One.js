@@ -1,25 +1,28 @@
 /*
- * @param {number[]} digits
- * @return {number[]}
+
+66. Plus One
+
+https://leetcode.com/problems/plus-one/
+
 */
 
-
-var plusOne = function(digits) {
-    var stringdigit = '';
-    for(i = 0; i < digits.length; i++){
-        stringdigit += digits[i];
-    }
-    var stringtodigit = BigInt(stringdigit);
-    stringtodigit += 1n; 
-    stringdigit = ''+stringtodigit;
-    
-    for(i = 0; i < stringdigit.length; i++){
-        digits[i] = stringdigit.charAt(i);
+var plusOne = function (digits) {
+    let carry = false;
+    for (let i = digits.length - 1; i >= 0 || carry; i--) {
+        if (digits[i] === 9) {
+            digits[i] = 0;
+            carry = true;
+        } else {
+            if (i < 0 && carry) digits.unshift(1);
+            else digits[i]++;
+            break;
+        }
     }
     return digits;
 };
 
-console.log(plusOne([6,1,4,5,3,9,0,1,9,5,1,8,6,7,0,5,5,4,3]))
+
+console.log(plusOne([6, 1, 4, 5, 3, 9, 0, 1, 9, 5, 1, 8, 6, 7, 0, 5, 5, 4, 3]))
 
 /*
 

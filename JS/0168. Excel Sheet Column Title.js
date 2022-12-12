@@ -6,8 +6,6 @@ https://leetcode.com/problems/excel-sheet-column-title/
 
 */
 
-
-
 var convertToTitle = function(columnNumber) {
     let dict = {
         1 : 'A', 2 : 'B', 3 : 'C', 
@@ -21,19 +19,20 @@ var convertToTitle = function(columnNumber) {
         25 : 'Y', 26 : 'Z',
     }
 
-    let num = columnNumber
-    let out = '';
-    let power = (columnNumber + '').length - 1;
-    while(power > 0){
-        let x = Math.floor(num / 26);
-        out += dict[x];
-        num -= Math.pow(x, power);
-        power--;
+    if(columnNumber < 26) return dict[columnNumber];
+
+    let s = "";
+
+    while (columnNumber > 0) {
+        let temp = columnNumber % 26;
+        temp = (temp == 0) ? 26 : temp;
+        s = dict[temp] + s;
+        columnNumber -= temp;
+        columnNumber /= 26;
     }
-    console.log(num)
-    out += dict[Math.floor(num)];
-    return out;
+    return s;
 };
+
 
 console.log(convertToTitle(565))
 

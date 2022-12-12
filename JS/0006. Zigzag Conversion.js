@@ -1,4 +1,8 @@
-//6. Zigzag Conversion (Medium)
+/*
+
+6. Zigzag Conversion
+
+https://leetcode.com/problems/zigzag-conversion/
 
 /* 
 Version 1

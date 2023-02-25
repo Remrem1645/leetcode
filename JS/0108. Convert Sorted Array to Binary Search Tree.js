@@ -7,19 +7,21 @@ https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 */
 
 var sortedArrayToBST = function(nums) {
-    if(nums.length <= 2){
+    if(!nums) return null;
 
-    }   
-    let center = Math.floor(nums.length / 2);
+    function convert(low, high){
+        if(low > high) return null;
 
-    let output = new TreeNode();
+        let mid = Math.floor((high + low) / 2);
+        let root = new TreeNode(nums[mid]);
 
-    for(let i = 0; i < center; i++){
-        let temp = new TreeNode();
-        temp.val = nums[i];
-        
-    }
-    
+        root.left = convert(low, mid - 1);
+        root.right = convert(mid + 1, high);
+
+        return root;
+    }  
+
+    return convert(0, nums.length - 1);
 };
 
 function TreeNode(val, left, right) {

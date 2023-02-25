@@ -38,7 +38,6 @@ headB.next.next.next = new ListNode(8);
 headB.next.next.next.next = new ListNode(4);
 headB.next.next.next.next.next = new ListNode(5);
 
-
 console.log(getIntersectionNode(headA, headB));
 
 /*

@@ -1,6 +1,7 @@
 # leetcode
 learning and working through leetcode with JavaScript 
 
+(list is wip)
 | # | Title | Solution | Difficulty | Status |
 |---| ----- | -------- | ---------- | ------ |
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0001.%20Two%20Sum.js)|Easy|Completed|

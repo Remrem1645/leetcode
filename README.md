@@ -49,10 +49,19 @@ learning and working through leetcode with JavaScript
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0088.%20Merge%20Sorted%20Array.js)|Easy|Completed|
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0094.%20Binary%20Tree%20Inorder%20Traversal.js)|Easy|Completed|
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0100.%20Same%20Tree.js)|Easy|Completed|
+|0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0101.%20Symmetric%20Tree.js)|Easy|Completed|
+|0103|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0102.%20Binary%20Tree%20Level%20Order%20Traversal.js)|Medium|Completed|
+|0104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0104.%20Maximum%20Depth%20of%20Binary%20Tree.js)|Easy|Completed|
+|0100|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.js)|Easy|Completed|
 |0100|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
 |0100|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
 |0100|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
 |0100|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
+|0100|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
+|0100|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
+|0100|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
+|0100|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
+
 
 
 

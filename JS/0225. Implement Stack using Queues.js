@@ -1,3 +1,11 @@
+/*
+
+225. Implement Stack using Queues
+
+https://leetcode.com/problems/implement-stack-using-queues/
+
+*/
+
 
 var MyStack = function() {
     this.queue1 = [];
@@ -35,10 +43,7 @@ console.log(obj.pop())
 
 obj.push(3)
 
-
 console.log(obj.pop())
-
-
 console.log(obj.pop())
 
 

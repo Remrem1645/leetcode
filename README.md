@@ -70,11 +70,22 @@ learning and working through leetcode with JavaScript
 |0148|[Sort List](https://leetcode.com/problems/sort-list/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0148.%20Sort%20List.js)|Medium|Completed|
 |0167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.js)|Medium|Completed|
 |0168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0168.%20Excel%20Sheet%20Column%20Title.js)|Easy|Completed|
-|0169|[Majority Element](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0160|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0160|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0160|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0160|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0169|[Majority Element](https://leetcode.com/problems/majority-element/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0169.%20Majority%20Element.js)|Easy|Completed|
+|0171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0171.%20Excel%20Sheet%20Column%20Number.js)|Easy|Completed|
+|0189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0189.%20Rotate%20Array.js)|Medium|Completed|
+|0203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0203.%20Remove%20Linked%20List%20Elements.js)|Easy|Completed|
+|0205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0205.%20Isomorphic%20Strings.js)|Easy|Completed|
+|0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0206.%20Reverse%20Linked%20List.js)|Easy|Completed|
+|0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0217.%20Contains%20Duplicate.js)|Easy|Completed|
+|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
 
 
 

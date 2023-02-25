@@ -7,29 +7,30 @@ https://leetcode.com/problems/majority-element/
 */
 
 
-var majorityElement = function(nums) {z 
-    nums.sort()
-    out = 0;
+var majorityElement = function(nums) {
+    nums = nums.sort((a, b) => a - b);
 
-    for(i = 1, start = 0, end = 0, check = nums[0], biggestlength = 0; i < nums.length; i++){
-        if (check == nums[i]) end = i;
-        else{
-            check = nums[i];
+    let longest = 0, out;
+    for(let i = 0, start = 0, end = 0, check = nums[0], leng = 0; i < nums.length; i++){
+        if(check === nums[i]){
+            end++;
+        }else{
             start = i;
+            end = i + 1;
+            check = nums[i];
         }
-        if ((end - start) > biggestlength){
-            biggestlength = (end - start);
-            out = start;
+        if((end - start) > longest){
+            out = i;
+            longest = (end - start);
         }
     }
-    return nums[out]
-};
+    return nums[out];
+}
 
 Input: nums = [2,2,1,1,1,2,2]
 console.log(majorityElement(nums))
 
 /*
-
 
 Example 1:
 

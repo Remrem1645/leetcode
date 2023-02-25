@@ -68,8 +68,14 @@ learning and working through leetcode with JavaScript
 |0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0144.%20Binary%20Tree%20Preorder%20Traversal.js)|Easy|Completed|
 |0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0145.%20Binary%20Tree%20Postorder%20Traversal.js)|Easy|Completed|
 |0148|[Sort List](https://leetcode.com/problems/sort-list/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0148.%20Sort%20List.js)|Medium|Completed|
+|0167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.js)|Medium|Completed|
+|0168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0168.%20Excel%20Sheet%20Column%20Title.js)|Easy|Completed|
+|0169|[Majority Element](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
 |0160|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
 |0160|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0160|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0160|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+
 
 
 

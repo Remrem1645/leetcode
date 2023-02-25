@@ -7,7 +7,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "${workspaceFolder}\\0225. Implement Stack using Queues.js"
+        "program": "${workspaceFolder}\\0232. Implement Queue using Stacks.js"
       }
     ]
   }

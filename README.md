@@ -33,7 +33,7 @@ learning and working through leetcode with JavaScript
 |0039|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0039.%20Combination%20Sum.js)|Medium|Completed|
 |0043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0043.%20Multiply%20Strings.js)|Medium|WIP|
 |0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0045.%20Jump%20Game%20II.js)|Medium|WIP|
-|0046|[Permutations](https://leetcode.com/problems/permutations/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0046.%20Permutations.js)|Medium|WTP|
+|0046|[Permutations](https://leetcode.com/problems/permutations/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0046.%20Permutations.js)|Medium|WIP|
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0048.%20Rotate%20Image.js)|Medium|Completed|
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0049.%20Group%20Anagrams.js)|Medium|Completed|
 |0051|[N-Queens](https://leetcode.com/problems/n-queens/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0051.%20N-Queens.js)|Hard|WIP|
@@ -54,13 +54,21 @@ learning and working through leetcode with JavaScript
 |0104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0104.%20Maximum%20Depth%20of%20Binary%20Tree.js)|Easy|Completed|
 |0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.js)|Easy|Completed|
 |0109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.js)|Medium|Completed|
-|0110|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
-|0110|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
-|0110|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
-|0110|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
-|0110|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
-|0110|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Medium|Completed|
-
+|0110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0110.%20Balanced%20Binary%20Tree.js)|Easy|Completed|
+|0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0111.%20Minimum%20Depth%20of%20Binary%20Tree.js)|Easy|Completed|
+|0112|[Path Sum](https://leetcode.com/problems/path-sum/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0112.%20Path%20Sum.js)|Easy|Completed|
+|0118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0118.%20Pascal's%20Triangle.js)|Easy|Completed|
+|0119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0119.%20Pascal's%20Triangle%20II.js)|Easy|Completed|
+|0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|Easy|Completed|
+|0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0125.%20Valid%20Palindrome.js)|Easy|Completed|
+|0133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0133.%20Clone%20Graph.js)|Medium|Completed|
+|0136|[Single Number](https://leetcode.com/problems/single-number/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0136.%20Single%20Number.js)|Easy|Completed|
+|0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0141.%20Linked%20List%20Cycle.js)|Easy|Completed|
+|0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0144.%20Binary%20Tree%20Preorder%20Traversal.js)|Easy|Completed|
+|0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0145.%20Binary%20Tree%20Postorder%20Traversal.js)|Easy|Completed|
+|0148|[Sort List](https://leetcode.com/problems/sort-list/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0148.%20Sort%20List.js)|Medium|Completed|
+|0160|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0160|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
 
 
 

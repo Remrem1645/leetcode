@@ -101,24 +101,49 @@ learning and working through leetcode with JavaScript
 |0389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0389.%20Find%20the%20Difference.js)|Easy|Completed|
 |0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0392.%20Is%20Subsequence.js)|Easy|Completed|
 |0404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0404.%20Sum%20of%20Left%20Leaves.js)|Easy|Completed|
-|0409|[Longest Palindrome](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0400|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0400|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0400|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0400|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0400|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0400|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|0409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0409.%20Longest%20Palindrome.js)|Easy|Completed|
+|0412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0412.%20Fizz%20Buzz.js)|Easy|Completed|
+|0414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0414.%20Third%20Maximum%20Number.js)|Easy|Completed|
+|0415|[Add Strings](https://leetcode.com/problems/add-strings/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0415.%20Add%20Strings.js)|Easy|Completed|
+|0434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0434.%20Number%20of%20Segments%20in%20a%20String.js)|Easy|Completed|
+|0448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.js)|Easy|Completed|
+|0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0455.%20Assign%20Cookies.js)|Easy|Completed|
+|0459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0459.%20Repeated%20Substring%20Pattern.js)|Easy|Completed|
+|0463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0463.%20Island%20Perimeter.js)|Easy|Completed|
+|0482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0482.%20License%20Key%20Formatting.js)|Easy|Completed|
+|0485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0485.%20Max%20Consecutive%20Ones.js)|Easy|Completed|
+|0495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0495.%20Teemo%20Attacking.js)|Easy|Completed|
+|0500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0500.%20Keyboard%20Row.js)|Easy|Completed|
+|0506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0506.%20Relative%20Ranks.js)|Easy|Completed|
+|0520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0520.%20Detect%20Capital.js)|Easy|Completed|
+|0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0543.%20Diameter%20of%20Binary%20Tree.js)|Easy|Completed|
+|0551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0551.%20Student%20Attendance%20Record%20I.js)|Easy|Completed|
+|0557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0557.%20Reverse%20Words%20in%20a%20String%20III.js)|Easy|Completed|
+|0561|[Array Partition](https://leetcode.com/problems/array-partition/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0561.%20Array%20Partition.js)|Easy|Completed|
+|0566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0566.%20Reshape%20the%20Matrix.js)|Easy|Completed|
+|0575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0575.%20Distribute%20Candies.js)|Easy|Completed|
+|0594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0594.%20Longest%20Harmonious%20Subsequence.js)|Easy|Completed|
+|0623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0623.%20Add%20One%20Row%20to%20Tree.js)|Medium|Completed|
+|0653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.js)|Easy|Completed|
+|0704|[Binary Search](https://leetcode.com/problems/binary-search/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0704.%20Binary%20Search.js)|Easy|Completed|
+|0733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0733.%20Flood%20Fill.js)|Easy|Completed|
+|0771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0771.%20Jewels%20and%20Stones.js)|Easy|Completed|
+|0819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0819.%20Most%20Common%20Word.js)|Easy|Completed|
+|0821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0821.%20Shortest%20Distance%20to%20a%20Character.js)|Easy|Completed|
+|0832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0832.%20Flipping%20an%20Image.js)|Easy|Completed|
+|0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0844.%20Backspace%20String%20Compare.js)|Easy|Completed|
+|0860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0860.%20Lemonade%20Change.js)|Easy|Completed|
+|0867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0867.%20Transpose%20Matrix.js)|Easy|Completed|
+|0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0872.%20Leaf-Similar%20Trees.js)|Easy|Completed|
+|0876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0876.%20Middle%20of%20the%20Linked%20List.js)|Easy|Completed|
+|0884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0884.%20Uncommon%20Words%20from%20Two%20Sentences.js)|Easy|Completed|
+|0896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0896.%20Monotonic%20Array.js)|Easy|Completed|
+|0905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0905.%20Sort%20Array%20By%20Parity.js)|Easy|Completed|
+|0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0977.%20Squares%20of%20a%20Sorted%20Array.js)|Easy|Completed|
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/1002.%20Find%20Common%20Characters.js)|Easy|Completed|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/1046.%20Last%20Stone%20Weight.js)|Easy|Completed|
+|1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/1091.%20Shortest%20Path%20in%20Binary%20Matrix.js)|Medium|Completed|
+|1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/1332.%20Remove%20Palindromic%20Subsequences.js)|Easy|Completed|
+|1553|[Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/1553.%20Minimum%20Number%20of%20Days%20to%20Eat%20N%20Oranges.js)|Hard|Completed|
+|2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.js)|Easy|Completed|
+|1000|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|

@@ -93,11 +93,11 @@ learning and working through leetcode with JavaScript
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0290.%20Word%20Pattern.js)|Easy|Completed|
 |0344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0344.%20Reverse%20String.js)|Easy|Completed|
 |0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0345.%20Reverse%20Vowels%20of%20a%20String.js)|Easy|Completed|
-|0347|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0300|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0300|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0300|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0300|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0347.%20Top%20K%20Frequent%20Elements.js)|Medium|Completed|
+|0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0349.%20Intersection%20of%20Two%20Arrays.js)|Easy|Completed|
+|0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0350.%20Intersection%20of%20Two%20Arrays%20II.js)|Easy|Completed|
+|0383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0383.%20Ransom%20Note.js)|Easy|Completed|
+|0387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0387.%20First%20Unique%20Character%20in%20a%20String.js)|Easy|Completed|
 |0300|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
 |0300|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
 |0300|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|

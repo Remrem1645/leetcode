@@ -98,9 +98,16 @@ learning and working through leetcode with JavaScript
 |0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0350.%20Intersection%20of%20Two%20Arrays%20II.js)|Easy|Completed|
 |0383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0383.%20Ransom%20Note.js)|Easy|Completed|
 |0387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0387.%20First%20Unique%20Character%20in%20a%20String.js)|Easy|Completed|
-|0300|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0300|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0300|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0389.%20Find%20the%20Difference.js)|Easy|Completed|
+|0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0392.%20Is%20Subsequence.js)|Easy|Completed|
+|0404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0404.%20Sum%20of%20Left%20Leaves.js)|Easy|Completed|
+|0409|[Longest Palindrome](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0400|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0400|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0400|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0400|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0400|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0400|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
 
 
 

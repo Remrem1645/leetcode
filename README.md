@@ -24,6 +24,7 @@ learning and working through leetcode with JavaScript
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0020.%20Valid%20Parentheses.js)|Easy|Completed|
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0021.%20Merge%20Two%20Sorted%20Lists.js)|Easy|Completed|
 |0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0022.%20Generate%20Parentheses.js)|Medium|Completed|
+|0023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0023.%20Merge%20k%20Sorted%20Lists.js)|Hard|Completed|
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0024.%20Swap%20Nodes%20in%20Pairs.js)|Medium|Completed|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0026.%20Remove%20Duplicates%20from%20Sorted%20Array.js)|Easy|Completed|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0027.%20Remove%20Element.js)|Easy|Completed|
@@ -40,10 +41,12 @@ learning and working through leetcode with JavaScript
 |0051|[N-Queens](https://leetcode.com/problems/n-queens/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0051.%20N-Queens.js)|Hard|WIP|
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0053.%20Maximum%20Subarray.js)|Medium|Completed|
 |0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0054.%20Spiral%20Matrix.js)|Medium|Completed|
+|0057|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0057.%20Insert%20Interval.js)|Medium|Completed|
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0058.%20Length%20of%20Last%20Word.js)|Easy|Completed|
 |0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0059.%20Spiral%20Matrix%20II.js)|Medium|Completed|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0061.%20Rotate%20List.js)|Medium|Completed|
 |0066|[Plus One](https://leetcode.com/problems/plus-one/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0066.%20Plus%20One.js)|Easy|Completed|
+|0067|[Add Binary](https://leetcode.com/problems/add-binary/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0067.%20Add%20Binary.js)|Easy|Completed|
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0069.%20Sqrt(x).js)|Easy|Completed|
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0070.%20Climbing%20Stairs.js)|Easy|Completed|
 |0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0083.%20Remove%20Duplicates%20from%20Sorted%20List.js)|Easy|Completed|

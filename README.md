@@ -49,12 +49,15 @@ learning and working through leetcode with JavaScript
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0067.%20Add%20Binary.js)|Easy|Completed|
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0069.%20Sqrt(x).js)|Easy|Completed|
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0070.%20Climbing%20Stairs.js)|Easy|Completed|
+|0073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0073.%20Set%20Matrix%20Zeroes.js)|Easy|Completed|
+|0082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0082.%20Remove%20Duplicates%20from%20Sorted%20List%20II.js)|Easy|Completed|
 |0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0083.%20Remove%20Duplicates%20from%20Sorted%20List.js)|Easy|Completed|
+|0086|[Partition List](https://leetcode.com/problems/partition-list/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0086.%20Partition%20List.js)|Easy|Completed|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0088.%20Merge%20Sorted%20Array.js)|Easy|Completed|
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0094.%20Binary%20Tree%20Inorder%20Traversal.js)|Easy|Completed|
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0100.%20Same%20Tree.js)|Easy|Completed|
 |0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0101.%20Symmetric%20Tree.js)|Easy|Completed|
-|0103|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0102.%20Binary%20Tree%20Level%20Order%20Traversal.js)|Medium|Completed|
+|0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0102.%20Binary%20Tree%20Level%20Order%20Traversal.js)|Medium|Completed|
 |0104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0104.%20Maximum%20Depth%20of%20Binary%20Tree.js)|Easy|Completed|
 |0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.js)|Easy|Completed|
 |0109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.js)|Medium|Completed|

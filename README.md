@@ -77,16 +77,30 @@ learning and working through leetcode with JavaScript
 |0205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0205.%20Isomorphic%20Strings.js)|Easy|Completed|
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0206.%20Reverse%20Linked%20List.js)|Easy|Completed|
 |0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0217.%20Contains%20Duplicate.js)|Easy|Completed|
-|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-|0200|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
-
+|0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0219.%20Contains%20Duplicate%20II.js)|Easy|Completed|
+|0225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0225.%20Implement%20Stack%20using%20Queues.js)|Easy|Completed|
+|0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0226.%20Invert%20Binary%20Tree.js)|Easy|Completed|
+|0228|[Summary Ranges](https://leetcode.com/problems/invert-binary-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0226.%20Invert%20Binary%20Tree.js)|Easy|Completed|
+|0231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0231.%20Power%20of%20Two.js)|Easy|Completed|
+|0232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0232.%20Implement%20Queue%20using%20Stacks.js)|Easy|Completed|
+|0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0234.%20Palindrome%20Linked%20List.js)|Easy|Completed|
+|0235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.js)|Medium|Completed|
+|0237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0237.%20Delete%20Node%20in%20a%20Linked%20List.js)|Medium|Completed
+|0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0242.%20Valid%20Anagram.js)|Easy|Completed|
+|0257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0257.%20Binary%20Tree%20Paths.js)|Easy|Completed|
+|0268|[Missing Number](https://leetcode.com/problems/missing-number/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0268.%20Missing%20Number.js)|Easy|Completed|
+|0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0283.%20Move%20Zeroes.js)|Easy|Completed|
+|0290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0290.%20Word%20Pattern.js)|Easy|Completed|
+|0344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0344.%20Reverse%20String.js)|Easy|Completed|
+|0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0345.%20Reverse%20Vowels%20of%20a%20String.js)|Easy|Completed|
+|0347|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0300|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0300|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0300|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0300|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0300|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0300|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
+|0300|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|
 
 
 

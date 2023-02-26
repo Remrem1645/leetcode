@@ -8,24 +8,27 @@ https://leetcode.com/problems/top-k-frequent-elements/
 
 
 var topKFrequent = function(nums, k) {
-    let out = [];
-    let map = new Map();
+    let map = {};
 
     for(let i = 0; i < nums.length; i++){
-        if(map.has(nums[i])){
-            c = map.get(nums[i]);
-            map.set(nums[i], c + 1) ;
-        }else{
-            map.set(nums[i], 1);
-        }
+        if(!(nums[i] in map)) map[nums[i]] = 0;
+        map[nums[i]]++;
     }
 
-    console.log(map)
+    let arr = [];
 
+    for(let i in map){
+        arr.push({i, count: map[i]});
+    }
 
-    return map;
+    arr.sort((a, b) => b.count - a.count);
 
+    let out = [];
 
+    for(let i = 0; i < k; i++){
+        out.push(arr[i].i);
+    }
+    return out
 };
 
 

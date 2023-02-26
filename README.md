@@ -145,5 +145,5 @@ learning and working through leetcode with JavaScript
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/1091.%20Shortest%20Path%20in%20Binary%20Matrix.js)|Medium|Completed|
 |1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/1332.%20Remove%20Palindromic%20Subsequences.js)|Easy|Completed|
 |1553|[Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/1553.%20Minimum%20Number%20of%20Days%20to%20Eat%20N%20Oranges.js)|Hard|Completed|
-|2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.js)|Easy|Completed|
+|2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.js)|Medium|Completed|
 |1000|[dddddddd](ddddddddddd)|[JS](ddddddddddddd)|Easy|Completed|

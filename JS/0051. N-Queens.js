@@ -38,11 +38,11 @@ function check(arr, row, col) {
     for(let i = 0; i < row; i++){
         if (arr[i][col] == 'Q') return false;
     }
-    // if the diagonal is already taken, goes down left
+    // if the diagonal is already taken, \
     for (let i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
         if (arr[i][j] == 'Q') return false;
     }
-    // if the diagonal is already taken, goes down right
+    // if the diagonal is already taken, |
     for (let i = row - 1, j = col + 1; i >= 0 && j < arr.length; i--, j++) {
         if (arr[i][j] == 'Q') return false;
     }

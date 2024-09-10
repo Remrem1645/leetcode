@@ -1,59 +1,62 @@
-var solveNQueens = function(n) {
-    if(n == 1){
-        return [["Q"]];
-    }
-    if(n == 2 || n == 3){
-        return [];
-    }
-    let out = []; let x1;
-    x1 = calc1(n);
-    x2 = flipArray(x1);
-    out.push(x1,x2)
+
+/*
+
+51. N-Queens
+
+https://leetcode.com/problems/n-queens/
+
+*/
+
+let out;
+
+function solveNQueens(n) {
+    // need to reset, for some reason leetcode doesn't reset the global variable
+    out = [];
+    // Creates 2d array filled with '.'
+    let arr = Array.from({ length: n }, () => Array(n).fill('.'));
+    dfs(arr, 0);
     return out;
 };
 
-function flipArray (arr){
-    let out = [];
-    for(i = arr.length - 1; i >= 0; i--){
-        out.push(arr[i]);
-    }
-    return out;
-}
+function dfs(arr, row) {
+    // push the current board configuration to out
+    if(row == arr.length) return out.push(arr.map(row => row.join('')));
 
-function calc1(n){ 
-    let out = [];
-    let j = (n < 5) ? 1 : 0;
-
-    for(i = 0; i < n; i++){
-        for(j; j < n; j += 2){
-            out.push(".".repeat(j) + "Q" + ".".repeat(n - j - 1));
-            i++;
+    // iterate through the columns
+    for(let col = 0; col < arr.length; col++){
+        if(check(arr, row, col)){
+            arr[row][col] = 'Q';
+            dfs(arr, row + 1);
+            // clean up the Q after the dfs
+            arr[row][col] = '.';
         }
-        j = (n < 5) ? 0 : 1;
     }
-    return out;
 }
 
+function check(arr, row, col) {
+    // if the column is already taken
+    for(let i = 0; i < row; i++){
+        if (arr[i][col] == 'Q') return false;
+    }
+    // if the diagonal is already taken, goes down left
+    for (let i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
+        if (arr[i][j] == 'Q') return false;
+    }
+    // if the diagonal is already taken, goes down right
+    for (let i = row - 1, j = col + 1; i >= 0 && j < arr.length; i--, j++) {
+        if (arr[i][j] == 'Q') return false;
+    }
+    return true;
+}
 
-
-console.table(solveNQueens(1))
-
+console.log(solveNQueens(1))
 
 /*
-Input: n = 4
-Output: [[".Q..","...Q","Q...","..Q."],["..Q.","Q...","...Q",".Q.."]]
 
+The n-queens puzzle is the problem of placing n queens on an n x n chessboard such that no two queens attack each other.
 
+Given an integer n, return all distinct solutions to the n-queens puzzle. You may return the answer in any order.
 
-Explanation: There exist two distinct solutions to the 4-queens puzzle as shown above
+Each solution contains a distinct board configuration of the n-queens' placement, where 'Q' and '.' both indicate a queen and an empty space, respectively.
 
-
-
-
-
-
-Example 2:
-
-Input: n = 1
-Output: [["Q"]]
 */

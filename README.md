@@ -38,7 +38,7 @@ learning and working through leetcode with JavaScript
 |0046|[Permutations](https://leetcode.com/problems/permutations/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0046.%20Permutations.js)|Medium|WIP|
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0048.%20Rotate%20Image.js)|Medium|Completed|
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0049.%20Group%20Anagrams.js)|Medium|Completed|
-|0051|[N-Queens](https://leetcode.com/problems/n-queens/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0051.%20N-Queens.js)|Hard|WIP|
+|0051|[N-Queens](https://leetcode.com/problems/n-queens/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0051.%20N-Queens.js)|Hard|Completed|
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0053.%20Maximum%20Subarray.js)|Medium|Completed|
 |0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0054.%20Spiral%20Matrix.js)|Medium|Completed|
 |0057|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[JS](https://github.com/Remrem1645/leetcode/blob/main/JS/0057.%20Insert%20Interval.js)|Medium|Completed|
